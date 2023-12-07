@@ -12,7 +12,7 @@ Dalam konsep VLSM, administrator jaringan dapat membagi jaringan IP besar menjad
 
 # Tree
 hasil gambar tree
-<img width="3113" alt="VLSM" src="https://github.com/Abhinaya173/Jarkom-Modul4-D18-2023/assets/114990549/f24da34f-9db4-4409-81e5-6e6c19205ce5">
+<img width="3116" alt="VLSM" src="https://github.com/Abhinaya173/Jarkom-Modul4-D18-2023/assets/114990549/8d7c5cb1-1b24-4135-ab3c-4d77626f3742">
 
 # Pembagian Ip
 ![image](https://github.com/Abhinaya173/Jarkom-Modul4-D18-2023/assets/114990549/6fa78d74-f8e8-42c9-8689-0938165ffdc0)
